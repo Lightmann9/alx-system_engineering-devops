@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "./0x00-shell_basics"
+#Get the absolute path of the current working directory
+current_directory=$(pwd)
+
+#Print the absolute path
+echo "Current directory:$current_directory"
