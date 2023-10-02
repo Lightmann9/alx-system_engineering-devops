@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l --all -n /alx-system_engineering-devops/0x00-shell_basics/ /boot/
+ls -l --all -n root@2a74b0118c16:/alx-system_engineering-devops/0x00-shell_basics/ root@2a74b0118c16:/alx-system_engineering-devops/ /boot/
