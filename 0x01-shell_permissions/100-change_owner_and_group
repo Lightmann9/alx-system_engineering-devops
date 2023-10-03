@@ -1,2 +1,2 @@
-#!/biin/bash
+#!/bin/bash
 chown -hR vincent staff
